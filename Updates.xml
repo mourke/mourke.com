@@ -6,16 +6,16 @@
   <Name>com.cardcentric.scet</Name>
   <DisplayName>ScET</DisplayName>
   <Description>SIM Card Emulator Tool</Description>
-  <Version>0.1.0-2</Version>
-  <ReleaseDate>2019-08-16</ReleaseDate>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2019-08-15</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="15053590" OS="Any" UncompressedSize="55639455"/>
+  <UpdateFile CompressedSize="15053991" UncompressedSize="55640991" OS="Any"/>
   <DownloadableArchives>ScET.0.1.0-1.7z</DownloadableArchives>
   <UserInterfaces>desktopshortcutform.ui</UserInterfaces>
   <Licenses>
    <License name="GNU General Public License v3.0" file="LICENSE.txt"/>
   </Licenses>
-  <SHA1>f5c73c005f4ccb4a3eb109aa6d4a9ff6725ca99b</SHA1>
+  <SHA1>c90c334661a1ef365379bc7cc4b466c009fe083e</SHA1>
  </PackageUpdate>
 </Updates>
