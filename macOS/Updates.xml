@@ -1,0 +1,21 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.cardcentric.scet</Name>
+  <DisplayName>ScET</DisplayName>
+  <Description>SIM Card Emulator Tool</Description>
+  <Version>0.1.2-0</Version>
+  <ReleaseDate>2020-02-09</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="43380388" CompressedSize="14389417"/>
+  <DownloadableArchives>ScET.7z</DownloadableArchives>
+  <UserInterfaces>desktopshortcutform.ui</UserInterfaces>
+  <Licenses>
+   <License file="LICENSE.txt" name="GNU General Public License v3.0"/>
+  </Licenses>
+  <SHA1>ba4a35d5b5a8791b6cb0ce4cc0eb4e0907ffc33e</SHA1>
+ </PackageUpdate>
+</Updates>
