@@ -10,12 +10,12 @@
   <ReleaseDate>2020-02-09</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="30431230" UncompressedSize="75165656"/>
+  <UpdateFile UncompressedSize="75165656" OS="Any" CompressedSize="30431673"/>
   <DownloadableArchives>ScET.7z</DownloadableArchives>
   <UserInterfaces>desktopshortcutform.ui</UserInterfaces>
   <Licenses>
    <License name="GNU General Public License v3.0" file="LICENSE.txt"/>
   </Licenses>
-  <SHA1>f65111f88b612bdab9d13e4d3c144afe1a37af74</SHA1>
+  <SHA1>30e0372c186ff0fba6f63e809c3f896a47d8c53f</SHA1>
  </PackageUpdate>
 </Updates>
