@@ -9,7 +9,7 @@
 		<item>
             <title>0.1.2 Beta</title>
 			<description><![CDATA[
-        <p>Added</p>
+        <h2>Added</h2>
         <ul>
           <li>macOS application</li>
           <li>Application Layer</li>
@@ -17,7 +17,7 @@
           <li>User manual</li>
           <li>Spanish localisation</li>
         </ul>
-        <p>Fixed</p>
+        <h2>Fixed</h2>
         <ul>
           <li>Errors caused by malformed .sts files</li>
           <li>Runtime errors on Windows Vista through 8.1</li>
